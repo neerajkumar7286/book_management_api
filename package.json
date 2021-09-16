@@ -11,7 +11,15 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.13.0",
-    "nodemon": "^2.0.7"
-  }
+    "mongoose": "^5.13.9",
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankpdev/bookapib1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pavankpdev/bookapib1/issues"
+  },
+  "homepage": "https://github.com/pavankpdev/bookapib1#readme"
 }
